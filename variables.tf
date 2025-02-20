@@ -1,7 +1,6 @@
 variable "labelPrefix" {
   description = "The prefix for Azure resources"
   type = string
-  default = "vinh0008"
 }
 
 variable "region" {
